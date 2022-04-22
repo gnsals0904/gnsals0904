@@ -1,4 +1,15 @@
-<div align="center"><h1> Hi there 👋 I'm HunMin Kim </h1></div>
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=7E6ECD&height=120&section=header&text=HunMin%20Kim&fontSize=30&fontAlign=70&fontAlignY=30&fontColor=d6ace6)
+
+</div>
+  
+  
+<div align="center">
+  
+Hello 👋🏼 <br>My name is Hunmin Kim and I am trying to become a skilled developer 💪🏼
+
+</div>
 
 <div align="center">
   
