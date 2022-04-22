@@ -4,10 +4,9 @@
 
 </div>
   
-  
 <div align="center">
   
-Hello 👋🏼 <br>My name is Hunmin Kim and I am trying to become a skilled developer 💪🏼
+## Hello 👋🏼 <br>My name is Hunmin Kim and I am trying to become a skilled developer 💪🏼
 
 </div>
 
