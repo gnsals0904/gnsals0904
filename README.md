@@ -17,24 +17,33 @@
 
 <div align="center">
 <details>
-  <summary>✉️ Email</summary>
+  <summary><h2>✉️ Email</h2></summary>
   <h6> gnsals0904@naver.com <br><br> gnsals980914@gmail.com </h6>
 </details>
   <br>
 <details>
-  <summary>📞 SNS</summary>
+  <summary><h2>📞 SNS<h2></summary>
   <br>
   <a href="https://blog.naver.com/gnsals0904" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" width = 80px height = 30px/></a> &nbsp;
 <a href="https://www.facebook.com/gnsals0914" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" width = 120px height = 30px/>&nbsp; </a>
 <a href="https://www.instagram.com/gnsals0904" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"  width = 120px height = 30px/></a> &nbsp;
-
-  
+</details>
+  <br>
+<details>
+  <summary><h2>🛠 Skills</h2></summary>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </div>
   
-  
+***  
 
   
-  
+
 <div align="center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnsals0904&count_bg=%23DD246F&title_bg=%23FF8484&icon=firefoxbrowser.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/gnsals0904)
