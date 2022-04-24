@@ -18,7 +18,7 @@
 <div align="center">
 <details>
   <summary><h2>✉️ Email</h2></summary>
-  <h6> gnsals0904@naver.com <br><br> gnsals980914@gmail.com </h6>
+  <h5> gnsals0904@naver.com <br><br> gnsals980914@gmail.com </h5>
 </details>
   <br>
 <details>
@@ -41,7 +41,7 @@
 </div>
   
 ***  
-
+<br>
   
 
 <div align="center">
@@ -50,6 +50,8 @@
   
 </div>
 
+<br>
+    
 <span align="center">
   
 [![Hunmin's github stats](https://github-readme-stats.vercel.app/api?username=gnsals0904&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/gnsals0904/github-readme-stats)
