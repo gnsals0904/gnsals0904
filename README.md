@@ -18,7 +18,7 @@
 <div align="center">
 <details>
   <summary><h2>✉️ Email</h2></summary>
-  <h5> gnsals0904@naver.com <br><br> gnsals980914@gmail.com </h5>
+  <h4> gnsals0904@naver.com <br><br> gnsals980914@gmail.com </h4>
 </details>
   <br>
 <details>
