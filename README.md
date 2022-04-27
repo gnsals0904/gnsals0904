@@ -42,7 +42,7 @@
   <br>
 <details>
   <summary><h2>🖋 Portfolio</h2></summary>
-  <h4> gnsals0904@naver.com <br><br> gnsals980914@gmail.com </h4>
+  <h4> editing.. </h4>
 </details>   
   
   
