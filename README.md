@@ -43,12 +43,14 @@
 <details>
   <summary><h2>🖋 Portfolio</h2></summary>
   <h4> editing.. </h4>
-  |테스트|테스트|테스트|
+  |Date|career|etc|
+  |---|---|---|
+  |ed|ed|ed|
 </details>   
   
   
 </div>
- 
+
  
     
     
