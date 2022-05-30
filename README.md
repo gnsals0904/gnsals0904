@@ -43,9 +43,15 @@
 <details>
   <summary><h2>🖋 Portfolio</h2></summary>
   <h4> editing.. </h4>
+  
+  <div>
+    
   |Date|career|etc|
   |---|---|---|
   |ed|ed|ed|
+    
+  </div>
+  
 </details>   
   
   
