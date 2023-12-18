@@ -15,3 +15,7 @@
 
 | <a href="https://github.com/gnsals0904/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gnsals0904&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Hunmin's github stats" /></a> | <a href="https://github.com/gnsals0904/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnsals0904&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gnsals0914)](https://solved.ac/gnsals0914)
