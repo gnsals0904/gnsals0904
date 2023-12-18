@@ -12,10 +12,6 @@
 </div>
 
 <br><br>
-    
-<span align="center">
-  
-[![Hunmin's github stats](https://github-readme-stats.vercel.app/api?username=gnsals0904&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/gnsals0904/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnsals0904&layout=compact&theme=tokyonight)](https://github.com/gnsals0904/github-readme-stats)
-  
-</span>
+
+| <a href="https://github.com/gnsals0904/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gnsals0904&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Hunmin's github stats" /></a> | <a href="https://github.com/gnsals0904/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnsals0904&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
