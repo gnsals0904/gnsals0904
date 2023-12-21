@@ -1,4 +1,4 @@
-<p><em>Software Enginner at <a href="http://www.ajou.ac.kr">University of Ajou</a><img src="https://media.giphy.com/media/dBrXAuiJQpBTgFhHFH/giphy.gif" width="30"></br>Developing Study at <a href=""></a><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="http://www.ajou.ac.kr">University of Ajou</a><img src="https://media.giphy.com/media/dBrXAuiJQpBTgFhHFH/giphy.gif" width="30"></br>Developing Study at <a href="https://www.ssafy.com">SSAFY 11th</a><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> 
 </em></p>
     
 ***  
