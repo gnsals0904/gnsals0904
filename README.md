@@ -1,4 +1,4 @@
-<p><em>Software Enginner at <a href="http://www.ajou.ac.kr">University of Ajou</a><img src="https://media.giphy.com/media/dBrXAuiJQpBTgFhHFH/giphy.gif" width="30"></br>Developing Study at <a href="https://www.ssafy.com">SSAFY 11th</a><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> 
+<p><em>In 2017 to 2021, Software Engineering major at <a href="http://www.ajou.ac.kr">Ajou University</a><img src="https://media.giphy.com/media/dBrXAuiJQpBTgFhHFH/giphy.gif" width="30"></br>In 2024, studying development in the 11th cohort at <a href="https://www.ssafy.com">SSAFY</a><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> 
 </em></p>
     
 ***  
