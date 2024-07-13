@@ -4,19 +4,35 @@
 
 ***  
 <br>
-  
+
 
 <div align="center">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnsals0904&count_bg=%23DD246F&title_bg=%23FF8484&icon=firefoxbrowser.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/gnsals0904)
-  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnsals0904&count_bg=%23DD246F&title_bg=%23FF8484&icon=firefoxbrowser.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/gnsals0904)
+    <div>
+        <p><img src="https://simpleicons.org/icons/github.svg" height="15px"/> GitHub Stats </p>
+    </div>
+    <div>
+        <img
+                src="https://github-readme-stats.vercel.app/api?username=gnsals0904&show_icons=true&theme=tokyonight&hide_border=true"
+                height="150"
+                alt="github stats"
+        />
+        <img
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnsals0904&theme=tokyonight&hide_border=true"
+                height="150"
+        />
+    </div>
+    
+  <br>
+    <div>
+        <p>🏆 Baekjoon solved rank 🏆</p>
+    </div>
+    <div>
+        <img
+                src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gnsals0914"
+                height="150"
+                alt="solved.ac"
+        />
+    </div>
 </div>
-
-<br><br>
-
-| <a href="https://github.com/gnsals0904/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gnsals0904&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Hunmin's github stats" /></a> | <a href="https://github.com/gnsals0904/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnsals0904&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gnsals0914)](https://solved.ac/gnsals0914)
