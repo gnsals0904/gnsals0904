@@ -1,6 +1,17 @@
-<p><em>In 2017 to 2021, Software Engineering major at <a href="http://www.ajou.ac.kr">Ajou University</a><img src="https://media.giphy.com/media/dBrXAuiJQpBTgFhHFH/giphy.gif" width="30"><br>In 2021 to 2023, Served as an Army Officer through <a href="https://www.rotc.or.kr">ROTC</a><img src="https://media.giphy.com/media/GWlerkQd6iem5W3OZi/giphy.gif" width="30"> 
-<br>In 2024, Studying Development in the 11th cohort at <a href="https://www.ssafy.com">SSAFY</a><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> 
-</em></p>
+<p>
+  <em>
+    In 2017 to 2021, Software Engineering major at
+    <a href="http://www.ajou.ac.kr">Ajou University</a>
+    <img src="https://media.giphy.com/media/dBrXAuiJQpBTgFhHFH/giphy.gif" width="30" style="vertical-align: middle;">
+    <br>
+    In 2021 to 2023, Served as an Army Officer through
+    <a href="https://www.rotc.or.kr">ROTC</a>
+    <img src="https://media.giphy.com/media/GWlerkQd6iem5W3OZi/giphy.gif" width="30" style="vertical-align: text-bottom;"> 
+    <br>
+    In 2024, Studying Development in the 11th cohort at <a href="https://www.ssafy.com">SSAFY</a>
+    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" style="vertical-align: text-bottom;"> 
+  </em>
+</p>
 
 ***  
 <br>
