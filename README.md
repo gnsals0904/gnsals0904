@@ -10,13 +10,11 @@
       <a href="https://www.rotc.or.kr">ROTC</a>
       <img src="https://media.giphy.com/media/GWlerkQd6iem5W3OZi/giphy.gif" width="30" style="vertical-align: text-bottom;"> 
       <br>
-      In 2024, Studying Development in the 11th cohort at <a href="https://www.ssafy.com">SSAFY</a>
+      In 2024, Studying Development in the 11th trainee at <a href="https://www.ssafy.com">SSAFY</a>
       <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" style="vertical-align: text-bottom;"> 
     </em>
   </p>
 </div>
-
-***  
 <br>
 
 
