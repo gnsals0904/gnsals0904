@@ -14,13 +14,13 @@
       <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" style="vertical-align: text-bottom;"> 
     </em>
   </p>
-</div>
 <br>
-
-
-<div align="center">
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnsals0904&count_bg=%23DD246F&title_bg=%23FF8484&icon=firefoxbrowser.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/gnsals0904)
+  <h3>🎨 SNS</h3>
+    <div>
+        <a href="https://blog.naver.com/gnsals0904">
+            <img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Blogger&logoColor=white"/>
+        </a>
+    </div>
     <div>
         <h3>📊 GitHub Stats </h3>
     </div>
@@ -46,5 +46,4 @@
                 height="150"
                 alt="solved.ac"
         />
-    </div>
 </div>
