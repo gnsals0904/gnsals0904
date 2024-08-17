@@ -21,6 +21,7 @@
             <img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Blogger&logoColor=white"/>
         </a>
     </div>
+    <br>
     <div>
         <h3>📊 GitHub Stats </h3>
     </div>
@@ -35,8 +36,7 @@
                 height="150"
         />
     </div>
-    
-  <br>
+    <br>
     <div>
         <h3>🏆 Baekjoon solved rank 🏆</h3>
     </div>
