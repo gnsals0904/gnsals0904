@@ -2,12 +2,18 @@
 - SSAFY (Samsung Software Academy for Youth) 11th (Jan. 2024 - Dec. 2024)
 - SSAFYcial (SSAFY Official) 11th (Jan. 2024 - Dec. 2024)
 - Served as an Army Officer through ROTC (Mar. 2021 - Jun. 2023)
+- Internship at OpenCare Lab Inc (Jan. 2020 - Feb. 2020)
 - Software Engineering major at Ajou University (Mar. 2017 - Feb. 2021)
 
-### Usually Use
+### 🔨 Usually Use
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 
+### 🎯 Award & Certification
+- 삼성 청년 SW 아카데미 자율 프로젝트 우수상 🏆 (2024. 11)
+- 삼성 SW 역량테스트 B형(Professional) 취득 (2024. 08)
+- 아주대학교 Softcon 자기주도프로젝트 우수상 🏆 (2020. 06) 
+- 아주대학교 SW 융합 아이디어 공모전 우수상 🏆 (2019. 12)
 
 ### 🎨 SNS
 <a href="https://blog.naver.com/gnsals0904">
