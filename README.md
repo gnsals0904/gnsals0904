@@ -7,7 +7,7 @@
 
 ### 🔨 Usually Use
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 
 ### 🎯 Award & Certification
 - 삼성 청년 SW 아카데미 자율 프로젝트 우수상 🏆 (2024. 11)
