@@ -1,7 +1,7 @@
 ### ✈ Career & Activity
+- NHN Backend Developer (Sep. 2025 - ing)
 - NHN Academy 10th (Feb. 2025 - Jul. 2025)
 - SSAFY (Samsung Software Academy for Youth) 11th (Jan. 2024 - Dec. 2024)
-- SSAFYcial (SSAFY Official) 11th (Jan. 2024 - Dec. 2024)
 - Served as an Army Officer through ROTC (Mar. 2021 - Jun. 2023)
 - Internship at OpenCare Lab Inc (Jan. 2020 - Feb. 2020)
 - Software Engineering major at Ajou University (Mar. 2017 - Feb. 2021)
