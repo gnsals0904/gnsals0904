@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 
 ### 🛠️ Opensource Contirbute
-- Langfuse
+- <a href="https://github.com/langfuse">Langfuse</a>
   - ⭐ <a href="https://github.com/langfuse/langfuse/pull/12206">Fix sidebar tag filter</a> | merged
   - ⭐ <a href="https://github.com/langfuse/langfuse/pull/12229">Improve tag logic</a> | merged
 
