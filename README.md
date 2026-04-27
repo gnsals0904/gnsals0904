@@ -9,8 +9,6 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 
-<br>
-
 ### 🛠️ Opensource Contirbute
 - <a href="https://github.com/langfuse">Langfuse</a>
   - ⭐ <a href="https://github.com/langfuse/langfuse/pull/12206">Fix sidebar tag filter</a> | merged
