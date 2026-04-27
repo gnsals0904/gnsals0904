@@ -11,8 +11,8 @@
 
 ### 🛠️ Opensource Contirbute
 - <a href="https://github.com/langfuse">Langfuse</a>
-  - ⭐ <a href="https://github.com/langfuse/langfuse/pull/12206">Fix sidebar tag filter</a> | merged
-  - ⭐ <a href="https://github.com/langfuse/langfuse/pull/12229">Improve tag logic</a> | merged
+  - <a href="https://github.com/langfuse/langfuse/pull/12206">Fix sidebar tag filter</a>
+  - <a href="https://github.com/langfuse/langfuse/pull/12229">Improve tag logic</a>
 
 ### 🎯 Award & Certification
 - 삼성 청년 SW 아카데미 자율 프로젝트 우수상 🏆 (2024. 11)
@@ -26,8 +26,6 @@
   height="150"
   alt="solved.ac"
 />
-
-<br>
 
 ### 🎨 SNS
 <a href="https://blog.naver.com/gnsals0904">
