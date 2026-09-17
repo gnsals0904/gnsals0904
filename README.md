@@ -26,8 +26,3 @@
   height="150"
   alt="solved.ac"
 />
-
-### 🎨 SNS
-<a href="https://blog.naver.com/gnsals0904">
-  <img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Blogger&logoColor=white"/>
-</a>
